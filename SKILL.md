@@ -1,6 +1,6 @@
 ---
 name: cloudflare-pages-deploy
-description: 一键部署 web 项目到 Cloudflare Pages，生成可外网访问的链接。使用 wrangler CLI，适用场景：(1) 部署静态网站 (2) 部署 Next.js/Nuxt 等前端项目 (3) 快速分享原型给外网人员。触发：当用户说"部署到 Cloudflare"、"发布网页"、"一键部署"、"deploy to cloudflare"时使用。
+description: 一键部署 web 项目到 Cloudflare Pages，生成可访问的链接。使用 wrangler CLI，适用场景：(1) 部署静态网站 (2) 部署 Next.js/Nuxt 等前端项目 (3) 快速分享原型给外网人员。触发：当用户说"部署到 Cloudflare"、"发布网页"、"一键部署"、"deploy to cloudflare"时使用。
 ---
 
 # Cloudflare Pages 一键部署

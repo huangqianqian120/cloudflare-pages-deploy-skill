@@ -1,6 +1,6 @@
 # cloudflare-pages-deploy
 
-一键部署 web 项目到 Cloudflare Pages，生成可外网访问的链接。
+一键部署 web 项目到 Cloudflare Pages，生成可访问的链接。
 
 ## 安装
 
